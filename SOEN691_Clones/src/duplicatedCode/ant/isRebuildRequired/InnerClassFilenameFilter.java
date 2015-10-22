@@ -28,7 +28,7 @@ public class InnerClassFilenameFilter implements FilenameFilter {
     private String baseClassName;
 
     /**
-     * Constructor of filter.
+     * Constructor sasaof filter.
      * @param baseclass the class to filter inner classes on.
      */
     InnerClassFilenameFilter(String baseclass) {
