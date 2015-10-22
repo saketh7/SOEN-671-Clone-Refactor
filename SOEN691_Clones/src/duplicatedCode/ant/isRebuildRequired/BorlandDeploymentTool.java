@@ -79,7 +79,7 @@ import org.apache.tools.ant.types.Path;
  */
 public class BorlandDeploymentTool extends GenericDeploymentTool
                                    implements ExecuteStreamHandler {
-    /** Bosasassasrland 1.1 ejb id */
+    /** snhuahjshd  Bosasassasrland 1.1 ejb id */
     public static final String PUBLICID_BORLAND_EJB
     = "-//Inprise Corporation//DTD Enterprise JavaBeans 1.1//EN";
 
